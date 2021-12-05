@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @baldevranna
+- 👀 I’m interested in music and art...
+- 🌱 I’m currently learning blender3d...
+- 📫 How to reach me IG @baldevranna...
+
+<!---
+baldevranna/baldevranna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
